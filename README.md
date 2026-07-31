@@ -8,9 +8,9 @@ I enjoy turning APIs, language models, and event-driven services into projects t
 
 | Project | What it demonstrates |
 |---|---|
-| [AI Crypto Signal Monitor](https://github.com/Smekkamite/ai-crypto-signal-monitor) | n8n workflow using Binance data, constrained LLM analysis, deterministic quality gates, and Telegram notifications |
-| [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | Modular Minecraft AI agent with a Node.js brain, Forge TCP bridge, memory, and event-driven personality |
 | [AI Support Desk Assistant](https://github.com/Smekkamite/ai-support-desk-assistant) | AI-assisted customer-support automation with n8n, OpenAI, Google Sheets, and Gmail drafts |
+| [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | Modular Minecraft AI agent with a Node.js brain, Forge TCP bridge, memory, and event-driven personality |
+| [AI Crypto Signal Monitor](https://github.com/Smekkamite/ai-crypto-signal-monitor) | n8n workflow using Binance data, constrained LLM analysis, deterministic quality gates, and Telegram notifications |
 | [JobLens AI](https://github.com/Smekkamite/joblens-ai) | TypeScript browser extension that turns job listings into concise, actionable insights |
 | [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Node.js API that sends application logs to a local Ollama model and returns structured diagnostics |
 
