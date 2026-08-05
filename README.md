@@ -1,34 +1,33 @@
 # Hi, I'm Alex 👋
 
-Node.js, cloud, and AI developer building modular systems, real-time agents, and practical automations.
+I build small software and automation projects with Node.js, n8n, APIs and AI.
 
-I enjoy turning APIs, language models, and event-driven services into projects that are understandable, testable, and useful. My current work focuses on AI orchestration, workflow automation, backend services, and human-in-the-loop systems.
+I like understanding how different systems work together and building things I can actually test and explain. Most of my recent work has been around workflow automation, support tools and small AI systems.
 
 ## Featured projects
 
 | Project | What it demonstrates |
 |---|---|
-| [AI Support Desk Assistant](https://github.com/Smekkamite/ai-support-desk-assistant) | AI-assisted customer-support automation with n8n, OpenAI, Google Sheets, and Gmail drafts |
-| [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | Modular Minecraft AI agent with a Node.js brain, Forge TCP bridge, memory, and event-driven personality |
-| [AI Crypto Signal Monitor](https://github.com/Smekkamite/ai-crypto-signal-monitor) | n8n workflow using Binance data, constrained LLM analysis, deterministic quality gates, and Telegram notifications |
-| [JobLens AI](https://github.com/Smekkamite/joblens-ai) | TypeScript browser extension that turns job listings into concise, actionable insights |
-| [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Node.js API that sends application logs to a local Ollama model and returns structured diagnostics |
+| [AI Support Desk Assistant](https://github.com/Smekkamite/ai-support-desk-assistant) | An n8n support workflow that classifies tickets, checks a knowledge base and creates Gmail drafts for review |
+| [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | A Minecraft AI agent built with a Node.js service, a Forge bridge, memory and game events |
+| [AI Crypto Signal Monitor](https://github.com/Smekkamite/ai-crypto-signal-monitor) | An n8n workflow that fetches Binance data, analyzes it with an LLM and sends selected signals to Telegram |
+| [JobLens AI](https://github.com/Smekkamite/joblens-ai) | A TypeScript browser extension that turns job listings into shorter, more useful summaries |
+| [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | A Node.js API that sends application logs to a local Ollama model and returns structured diagnostics |
 
 ## What I work with
 
-- **Backend:** Node.js, Express, REST APIs, event-driven architecture
-- **AI:** LLM orchestration, structured outputs, local models, prompt constraints
-- **Automation:** n8n, conditional routing, API integrations, notification workflows
-- **Frontend:** TypeScript, React, Vite, browser extensions
-- **Infrastructure:** cloud-oriented services, modular boundaries, failure-aware design
+- **Backend:** Node.js, Express and REST APIs
+- **Automation:** n8n, webhooks and API integrations
+- **AI:** LLM APIs, structured JSON outputs and local Ollama models
+- **Frontend:** TypeScript, React, Vite and browser extensions
+- **Services:** Google Sheets, Gmail, Telegram and Binance APIs
 
-## Engineering principles
+## How I work
 
-- Keep probabilistic AI behind deterministic controls.
-- Prefer modular components with explicit responsibilities.
-- Document tradeoffs, limitations, and testing evidence.
-- Build visible end-to-end results instead of isolated demos.
+- I prefer building a complete flow instead of stopping at an isolated example.
+- When AI is involved, I keep routing and safety checks explicit in the workflow.
+- I document what works, what does not work yet, and how someone else can test it.
 
-## Currently building
+## Current focus
 
-Improving a portfolio of practical AI systems, with a focus on workflow reliability, evaluation, and reusable documentation.
+Right now I'm improving the projects above, learning more about n8n and API integrations, and making each repository easier for someone else to understand and run.
