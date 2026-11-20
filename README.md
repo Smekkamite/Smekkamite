@@ -12,7 +12,7 @@ I spent over six years managing operations in an international venue in Brussels
 | [Break My Workflow](https://github.com/Smekkamite/break-my-workflow) | Webhook robustness testing, concurrent duplicate events, side-effect detection and reproducible reports |
 | [Shift Planner](https://github.com/Smekkamite/shift-planner) | Staff scheduling with availability constraints, weekly rules, editable assignments, approval and CSV export |
 | [MineWisp — Developer Preview](https://github.com/Smekkamite/minewisp) | Local Minecraft AI companion with a Node.js brain, Forge bridge, configurable profiles, browser control panel and 95 passing Node tests |
-| [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Local-first Express API for structured log diagnostics with Ollama |
+| [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Local AI log diagnostics dashboard, schema validation, credential redaction and automated CI |
 
 ## Technologies
 
