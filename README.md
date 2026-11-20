@@ -12,7 +12,6 @@ I spent over six years managing operations in an international venue in Brussels
 | [Break My Workflow](https://github.com/Smekkamite/break-my-workflow) | Webhook robustness testing, concurrent duplicate events, side-effect detection and reproducible reports |
 | [Shift Planner](https://github.com/Smekkamite/shift-planner) | Staff scheduling with availability constraints, weekly rules, editable assignments, approval and CSV export |
 | [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | Real-time Minecraft companion using Node.js, a Forge TCP bridge, persistent state and local AI |
-| [JobLens AI](https://github.com/Smekkamite/joblens-ai) | TypeScript browser extension combining local LLM extraction and deterministic job-fit rules |
 | [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Local-first Express API for structured log diagnostics with Ollama |
 
 ## Technologies
