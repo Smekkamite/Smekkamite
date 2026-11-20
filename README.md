@@ -11,7 +11,7 @@ I spent over six years managing operations in an international venue in Brussels
 | [AI Support Desk Assistant](https://github.com/Smekkamite/ai-support-desk-assistant) | n8n support triage, structured AI outputs, approved knowledge retrieval, audit logs and human review |
 | [Break My Workflow](https://github.com/Smekkamite/break-my-workflow) | Webhook robustness testing, concurrent duplicate events, side-effect detection and reproducible reports |
 | [Shift Planner](https://github.com/Smekkamite/shift-planner) | Staff scheduling with availability constraints, weekly rules, editable assignments, approval and CSV export |
-| [Elly AI Agent](https://github.com/Smekkamite/elly-ai-agent) | Real-time Minecraft companion using Node.js, a Forge TCP bridge, persistent state and local AI |
+| [MineWisp — Developer Preview](https://github.com/Smekkamite/minewisp) | Local Minecraft AI companion with a Node.js brain, Forge bridge, configurable profiles, browser control panel and 95 passing Node tests |
 | [AI Log Analyzer](https://github.com/Smekkamite/ai-log-analyzer) | Local-first Express API for structured log diagnostics with Ollama |
 
 ## Technologies
